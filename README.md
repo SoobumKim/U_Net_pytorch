@@ -31,7 +31,7 @@ Learning rate decay scheduler : ExponentialLR
 <img src=https://user-images.githubusercontent.com/19663575/128675888-e2ef99c9-c19e-4c9e-a82b-81a4ca239c46.png width="300" height="200">
  
 # Test
- Notice! Please delete '_pred' file in test dataset folder before prediction.
+ Notice! Please delete '_pred' files in test dataset folder before prediction.
  
  Left one is test image and right one is prediction image.
  
