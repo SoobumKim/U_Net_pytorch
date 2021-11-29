@@ -1,5 +1,7 @@
 from torchvision import transforms
 
+#print("test")
+
 def DataAug(dataloader,aug_num,aug_path='./data/train/aug/'):
     cnt = 0
     for num in range(aug_num):
